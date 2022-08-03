@@ -1,0 +1,1 @@
+alert("click para info del Gordi");
